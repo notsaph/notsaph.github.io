@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-layout: post
+layout: 
 ---
 
 TODO: write about me
